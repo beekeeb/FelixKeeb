@@ -4,7 +4,7 @@
 
 ![License](https://badgers.space/github/license/beekeeb/FelixKeeb)
 
-The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support released by [beekeeb](https://beekeeb.shop). It is based on Cipulot’s [helixhschoc](https://github.com/cipulot/helixhschoc) and MakodoKurachi’s [helix](https://github.com/MakotoKurauchi/helix).
+The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support released by [beekeeb](https://beekeeb.shop). It is based on Cipulot’s [helixhschoc](https://github.com/cipulot/helixhschoc) and MakotoKurauchi’s [helix](https://github.com/MakotoKurauchi/helix).
 
 ## Quick Links
 
@@ -48,6 +48,6 @@ External symbols and footprints:
 
 ## Credits
 
-This open source hardware project is created by [beekeeb](https://beekeeb.shop) and other contributors. It is based on Cipulot’s [helixhschoc](https://github.com/cipulot/helixhschoc) and MakodoKurachi’s [helix](https://github.com/MakotoKurauchi/helix).
+This open source hardware project is created by [beekeeb](https://beekeeb.shop) and other contributors. It is based on Cipulot’s [helixhschoc](https://github.com/cipulot/helixhschoc) and MakotoKurauchi’s [helix](https://github.com/MakotoKurauchi/helix).
 
 [<img src="docs/beekeeb.png" height="80" />](https://beekeeb.shop)
