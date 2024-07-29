@@ -35,6 +35,9 @@ Precompiled firmware can be found at https://docs.beekeeb.com/felixkeeb.
 * USB-C connectors: No pin shorting problems caused by TRRS jacks
 * Compatible with Helix/rev2 VIAL Firmware
 
+## Case
+* A basic case using with MX key switches is [available in Printables](https://www.printables.com/model/957449).
+
 ## License
 
 ![License](https://badgers.space/github/license/beekeeb/FelixKeeb)
